@@ -1,1 +1,1 @@
-# Generalized-Stochastic-Planner-Actor-Critic-for-Deformable-Image-Registration
+# Generalized Stochastic-Planner-Actor-Critic for Deformable Image Registration
